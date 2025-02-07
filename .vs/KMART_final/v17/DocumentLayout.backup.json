@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|d:\\work\\mehnazz\\kmart final csstemplate\\login,signup_done\\kmart_final\\kmart_final\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|solutionrelative:kmart_final\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|d:\\work\\mehnazz\\kmart final csstemplate\\login,signup_done\\kmart_final\\kmart_final\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|solutionrelative:kmart_final\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\kmart_final\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|solutionrelative:kmart_final\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Dashboard.cs",
+              "RelativeDocumentMoniker": "KMART_final\\Dashboard.cs",
+              "ToolTip": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Dashboard.cs [Design]",
+              "RelativeToolTip": "KMART_final\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:47:27.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Products.cs",
+              "RelativeDocumentMoniker": "KMART_final\\Products.cs",
+              "ToolTip": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Products.cs",
+              "RelativeToolTip": "KMART_final\\Products.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAMwLEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:42:09.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Products.cs",
+              "RelativeDocumentMoniker": "KMART_final\\Products.cs",
+              "ToolTip": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Products.cs [Design]",
+              "RelativeToolTip": "KMART_final\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:42:04.79Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

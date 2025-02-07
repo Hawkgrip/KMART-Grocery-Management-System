@@ -1,0 +1,168 @@
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.exe
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.deps.json
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.runtimeconfig.json
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.dll
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.pdb
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Customer.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Dashboard.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.HomePage.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Inventory.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Invoice.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.LogIn.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Products.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.SignUp.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.User_Profile.resources
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.dll
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\refint\KMART_final.dll
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.pdb
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KMART_final\KMART_final\obj\Debug\net8.0-windows\ref\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.exe
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.deps.json
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.runtimeconfig.json
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.pdb
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.AssemblyReference.cache
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Customer.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Dashboard.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.HomePage.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Inventory.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Invoice.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.LogIn.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Products.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.SignUp.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.User_Profile.resources
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.GenerateResource.cache
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfoInputs.cache
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfo.cs
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.CoreCompileInputs.cache
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_fi.AA8DC9FC.Up2Date
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\refint\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.pdb
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.genruntimeconfig.cache
+D:\Work\Mehnazz\KMART final CssTemplate\KMART_final\KMART_final\obj\Debug\net8.0-windows\ref\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.exe
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.deps.json
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.runtimeconfig.json
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\KMART_final.pdb
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.AssemblyReference.cache
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Customer.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Dashboard.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.HomePage.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Inventory.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Invoice.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.LogIn.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.Products.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.SignUp.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.User_Profile.resources
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.GenerateResource.cache
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfoInputs.cache
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.AssemblyInfo.cs
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.csproj.CoreCompileInputs.cache
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_fi.AA8DC9FC.Up2Date
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\refint\KMART_final.dll
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.pdb
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\KMART_final.genruntimeconfig.cache
+D:\Work\Mehnazz\KMART final CssTemplate\Login,SignUp_Done\KMART_final\KMART_final\obj\Debug\net8.0-windows\ref\KMART_final.dll

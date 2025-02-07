@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|d:\\work\\mehnazz\\kmart final csstemplate\\login,signup_done\\kmart_final\\kmart_final\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|solutionrelative:kmart_final\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|d:\\work\\mehnazz\\kmart final csstemplate\\login,signup_done\\kmart_final\\kmart_final\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E875F83D-16B1-4F23-9B24-E6BA74580551}|KMART_final\\KMART_final.csproj|solutionrelative:kmart_final\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Customer.cs",
+              "RelativeDocumentMoniker": "KMART_final\\Customer.cs",
+              "ToolTip": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Customer.cs",
+              "RelativeToolTip": "KMART_final\\Customer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADgv2EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:54:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Customer.cs",
+              "RelativeDocumentMoniker": "KMART_final\\Customer.cs",
+              "ToolTip": "D:\\Work\\Mehnazz\\KMART final CssTemplate\\Login,SignUp_Done\\KMART_final\\KMART_final\\Customer.cs [Design]",
+              "RelativeToolTip": "KMART_final\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:54:11.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
